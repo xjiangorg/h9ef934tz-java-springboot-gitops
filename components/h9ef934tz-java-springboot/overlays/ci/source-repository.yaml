@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: h9ef934tz-java-springboot-repository
+spec:
+  url: https://github.com/xjiangorg/h9ef934tz-java-springboot
